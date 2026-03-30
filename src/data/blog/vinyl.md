@@ -8,7 +8,7 @@ description: "J'ai posé cette question sur ce groupe Facebook et j'ai reçu plu
 ogImage: ../../assets/images/og-legacy/2021/11/vinyl-1.jpg
 ---
 
-Voici la liste ultime pour faire vos prochaines trouvailles!
+Voici la liste ultime pour faire vos prochaines trouvailles:
 
 ## **Indies**
 
