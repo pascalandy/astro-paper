@@ -1,11 +1,9 @@
+# Project Preferences
+
 ## Project overview using progressive disclosure
 
 1. Read and understand: `.napkin/NAPKIN.md`
 2. run `napkin overview --json`
-
----
-
-# Project Preferences
 
 ## Browser, esign/Style
 - the user will ask you to test something on the website, like:
